@@ -16,6 +16,11 @@
         <Label Text="Welcome to GITHUB" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+
+        <!-- Place new controls here -->
+        <Label Text="test" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
     </StackLayout>
 
 </ContentPage>
