@@ -9,6 +9,13 @@
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+    
+
+    
+        <!-- Place new controls here -->
+        <Label Text="Welcome to GITHUB" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
     </StackLayout>
 
 </ContentPage>
