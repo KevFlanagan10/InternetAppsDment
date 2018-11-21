@@ -5,7 +5,7 @@
              x:Class="PuzzlePicz.MainPage"
              Style="{StaticResource BackgroundColour}">
     
-   <!-- Kevin flanagan 2-->
+   <!-- Kevin flanagan Test 3-->
     
     <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Margin="25">
 
