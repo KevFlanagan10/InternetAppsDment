@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PuzzlePicz"
+             x:Class="PuzzlePicz.MainPage"
+             Style="{StaticResource BackgroundColour}">
+    
+   
+    
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Margin="25">
+
+        <Image x:Name="MainImage" Margin="5"></Image>
+        
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+
+        <Entry x:Name="MainEntry"/>
+
+            <Label Text="Please Enter Name"/>
+
+            <Button Clicked="Button_Clicked" 
+                Text="Start Game"/>
+
+        <Label x:Name="MainLabel"/>
+
+    </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>
