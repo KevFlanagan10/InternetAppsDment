@@ -20,6 +20,8 @@ namespace PuzzlePicz
             
             var assemble = typeof(MainPage);
 
+            // added change
+
             string filename = "PuzzlePicz.Assets.Images.Picz.PNG";
 
             MainImage.Source = ImageSource.FromResource(filename , assemble);
