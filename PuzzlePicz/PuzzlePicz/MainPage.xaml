@@ -15,7 +15,7 @@
 
         <Entry x:Name="MainEntry"/>
 
-            <Label Text="Please Enter Name"/>
+            <Label Text="Please Enter Your Name"/>
 
             <Button Clicked="Button_Clicked" 
                 Text="Start Game"/>
