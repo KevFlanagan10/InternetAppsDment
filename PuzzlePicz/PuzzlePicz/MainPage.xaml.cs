@@ -25,7 +25,7 @@ namespace PuzzlePicz
             string filename = "PuzzlePicz.Assets.Images.Picz.PNG";
 
             MainImage.Source = ImageSource.FromResource(filename , assemble);
-
+            string tester = "Hello World";
          
         }
 
