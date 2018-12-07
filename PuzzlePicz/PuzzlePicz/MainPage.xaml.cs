@@ -12,10 +12,10 @@ namespace PuzzlePicz
         public MainPage()
         {
             InitializeComponent();
-            setUpImage();
+            SetUpImage();
         }
 
-        private void setUpImage()
+        private void SetUpImage()
         {
             
             var assemble = typeof(MainPage);
