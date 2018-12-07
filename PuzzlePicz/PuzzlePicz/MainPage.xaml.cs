@@ -15,6 +15,7 @@ namespace PuzzlePicz
             SetUpImage();
         }
 
+        //method for image
         private void SetUpImage()
         {
             
